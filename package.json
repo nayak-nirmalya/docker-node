@@ -1,0 +1,9 @@
+{
+  "name": "docker-node",
+  "version": "1.0.0",
+  "description": "Dockerization of Node.js Application.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Nirmalya Nayak",
+  "license": "ISC"
+}
